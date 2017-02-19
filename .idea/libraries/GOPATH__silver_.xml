@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;silver&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.7.1/global/src/github.com" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.7.1/global/src/gopkg.in" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.7.1/global/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.7.1/global/src/github.com" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.7.1/global/src/gopkg.in" />
+      <root url="file://$USER_HOME$/.gvm/pkgsets/go1.7.1/global/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

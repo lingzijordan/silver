@@ -1,0 +1,544 @@
+{
+  "code": [
+    {
+      "id": "RPI",
+      "group": "1"
+    },
+    {
+      "id": "W875RX1",
+      "group": "1"
+    },
+    {
+      "id": "INDPRO",
+      "group": "1"
+    },
+    {
+      "id": "IPFPNSS",
+      "group": "1"
+    },
+    {
+      "id": "IPFINAL",
+      "group": "1"
+    },
+    {
+      "id": "IPCONGD",
+      "group": "1"
+    },
+    {
+      "id": "IPDCONGD",
+      "group": "1"
+    },
+    {
+      "id": "IPNCONGD",
+      "group": "1"
+    },
+    {
+      "id": "IPBUSEQ",
+      "group": "1"
+    },
+    {
+      "id": "IPMAT",
+      "group": "1"
+    },
+    {
+      "id": "IPDMAT",
+      "group": "1"
+    },
+    {
+      "id": "IPNMAT",
+      "group": "1"
+    },
+    {
+      "id": "IPMANSICS",
+      "group": "1"
+    },
+    {
+      "id": "IPB51222s",
+      "group": "1"
+    },
+    {
+      "id": "IPFUELS",
+      "group": "1"
+    },
+    {
+      "id": "NAPMPI",
+      "group": "1"
+    },
+    {
+      "id": "CUMFNS",
+      "group": "1"
+    },
+    {
+      "id": "HWI",
+      "group": "2"
+    },
+    {
+      "id": "HWIURATIO",
+      "group": "2"
+    },
+    {
+      "id": "CLF16OV",
+      "group": "2"
+    },
+    {
+      "id": "CE16OV",
+      "group": "2"
+    },
+    {
+      "id": "UNRATE",
+      "group": "2"
+    },
+    {
+      "id": "UEMPMEAN",
+      "group": "2"
+    },
+    {
+      "id": "UEMPLT5",
+      "group": "2"
+    },
+    {
+      "id": "UEMP5TO14",
+      "group": "2"
+    },
+    {
+      "id": "UEMP15OV",
+      "group": "2"
+    },
+    {
+      "id": "UEMP15T26",
+      "group": "2"
+    },
+    {
+      "id": "UEMP27OV",
+      "group": "2"
+    },
+    {
+      "id": "CLAIMSx",
+      "group": "2"
+    },
+    {
+      "id": "PAYEMS",
+      "group": "2"
+    },
+    {
+      "id": "USGOOD",
+      "group": "2"
+    },
+    {
+      "id": "CES1021000001",
+      "group": "2"
+    },
+    {
+      "id": "USCONS",
+      "group": "2"
+    },
+    {
+      "id": "MANEMP",
+      "group": "2"
+    },
+    {
+      "id": "DMANEMP",
+      "group": "2"
+    },
+    {
+      "id": "NDMANEMP",
+      "group": "2"
+    },
+    {
+      "id": "SRVPRD",
+      "group": "2"
+    },
+    {
+      "id": "USTPU",
+      "group": "2"
+    },
+    {
+      "id": "USWTRADE",
+      "group": "2"
+    },
+    {
+      "id": "USTRADE",
+      "group": "2"
+    },
+    {
+      "id": "USFIRE",
+      "group": "2"
+    },
+    {
+      "id": "USGOVT",
+      "group": "2"
+    },
+    {
+      "id": "CES0600000007",
+      "group": "2"
+    },
+    {
+      "id": "AWOTMAN",
+      "group": "2"
+    },
+    {
+      "id": "AWHMAN",
+      "group": "2"
+    },
+    {
+      "id": "NAPMEI",
+      "group": "2"
+    },
+    {
+      "id": "CES0600000008",
+      "group": "2"
+    },
+    {
+      "id": "CES2000000008",
+      "group": "2"
+    },
+    {
+      "id": "CES3000000008",
+      "group": "2"
+    },
+    {
+      "id": "HOUST",
+      "group": "3"
+    },
+    {
+      "id": "HOUSTNE",
+      "group": "3"
+    },
+    {
+      "id": "HOUSTMW",
+      "group": "3"
+    },
+    {
+      "id": "HOUSTS",
+      "group": "3"
+    },
+    {
+      "id": "HOUSTW",
+      "group": "3"
+    },
+    {
+      "id": "PERMIT",
+      "group": "3"
+    },
+    {
+      "id": "PERMITNE",
+      "group": "3"
+    },
+    {
+      "id": "PERMITMW",
+      "group": "3"
+    },
+    {
+      "id": "PERMITS",
+      "group": "3"
+    },
+    {
+      "id": "PERMITW",
+      "group": "3"
+    },
+    {
+      "id": "DPCERA3M086SBEA",
+      "group": "4"
+    },
+    {
+      "id": "CMRMTSPLx",
+      "group": "4"
+    },
+    {
+      "id": "RETAILx",
+      "group": "4"
+    },
+    {
+      "id": "NAPM",
+      "group": "4"
+    },
+    {
+      "id": "NAPMNOI",
+      "group": "4"
+    },
+    {
+      "id": "NAPMSDI",
+      "group": "4"
+    },
+    {
+      "id": "NAPMII",
+      "group": "4"
+    },
+    {
+      "id": "ACOGNO",
+      "group": "4"
+    },
+    {
+      "id": "AMDMNOx",
+      "group": "4"
+    },
+    {
+      "id": "ANDENOx",
+      "group": "4"
+    },
+    {
+      "id": "AMDMUOx",
+      "group": "4"
+    },
+    {
+      "id": "BUSINVx",
+      "group": "4"
+    },
+    {
+      "id": "ISRATIOx",
+      "group": "4"
+    },
+    {
+      "id": "UMCSENTx",
+      "group": "4"
+    },
+    {
+      "id": "M1SL",
+      "group": "5"
+    },
+    {
+      "id": "M2SL",
+      "group": "5"
+    },
+    {
+      "id": "M2REAL",
+      "group": "5"
+    },
+    {
+      "id": "AMBSL",
+      "group": "5"
+    },
+    {
+      "id": "TOTRESNS",
+      "group": "5"
+    },
+    {
+      "id": "NONBORRES",
+      "group": "5"
+    },
+    {
+      "id": "BUSLOANS",
+      "group": "5"
+    },
+    {
+      "id": "REALLN",
+      "group": "5"
+    },
+    {
+      "id": "NONREVSL",
+      "group": "5"
+    },
+    {
+      "id": "CONSPI",
+      "group": "5"
+    },
+    {
+      "id": "MZMSL",
+      "group": "5"
+    },
+    {
+      "id": "DTCOLNVHFNM",
+      "group": "5"
+    },
+    {
+      "id": "DTCTHFNM",
+      "group": "5"
+    },
+    {
+      "id": "INVEST",
+      "group": "5"
+    },
+    {
+      "id": "FEDFUNDS",
+      "group": "6"
+    },
+    {
+      "id": "CP3Mx",
+      "group": "6"
+    },
+    {
+      "id": "TB3MS",
+      "group": "6"
+    },
+    {
+      "id": "TB6MS",
+      "group": "6"
+    },
+    {
+      "id": "GS1",
+      "group": "6"
+    },
+    {
+      "id": "GS5",
+      "group": "6"
+    },
+    {
+      "id": "GS10",
+      "group": "6"
+    },
+    {
+      "id": "AAA",
+      "group": "6"
+    },
+    {
+      "id": "BAA",
+      "group": "6"
+    },
+    {
+      "id": "COMPAPFFx",
+      "group": "6"
+    },
+    {
+      "id": "TB3SMFFM",
+      "group": "6"
+    },
+    {
+      "id": "TB6SMFFM",
+      "group": "6"
+    },
+    {
+      "id": "T1YFFM",
+      "group": "6"
+    },
+    {
+      "id": "T5YFFM",
+      "group": "6"
+    },
+    {
+      "id": "T10YFFM",
+      "group": "6"
+    },
+    {
+      "id": "AAAFFM",
+      "group": "6"
+    },
+    {
+      "id": "BAAFFM",
+      "group": "6"
+    },
+    {
+      "id": "TWEXMMTH",
+      "group": "6"
+    },
+    {
+      "id": "EXSZUSx",
+      "group": "6"
+    },
+    {
+      "id": "EXJPUSx",
+      "group": "6"
+    },
+    {
+      "id": "EXUSUKx",
+      "group": "6"
+    },
+    {
+      "id": "EXCAUSx",
+      "group": "6"
+    },
+    {
+      "id": "WPSFD49207",
+      "group": "7"
+    },
+    {
+      "id": "WPSFD49502",
+      "group": "7"
+    },
+    {
+      "id": "WPSID61",
+      "group": "7"
+    },
+    {
+      "id": "WPSID62",
+      "group": "7"
+    },
+    {
+      "id": "OILPRICEx",
+      "group": "7"
+    },
+    {
+      "id": "PPICMM",
+      "group": "7"
+    },
+    {
+      "id": "NAPMPRI",
+      "group": "7"
+    },
+    {
+      "id": "CPIAUCSL",
+      "group": "7"
+    },
+    {
+      "id": "CPIAPPSL",
+      "group": "7"
+    },
+    {
+      "id": "CPITRNSL",
+      "group": "7"
+    },
+    {
+      "id": "CPIMEDSL",
+      "group": "7"
+    },
+    {
+      "id": "CUSR0000SAC",
+      "group": "7"
+    },
+    {
+      "id": "CUUR0000SAD",
+      "group": "7"
+    },
+    {
+      "id": "CUSR0000SAS",
+      "group": "7"
+    },
+    {
+      "id": "CPIULFSL",
+      "group": "7"
+    },
+    {
+      "id": "CUUR0000SA0L2",
+      "group": "7"
+    },
+    {
+      "id": "CUSR0000SA0L5",
+      "group": "7"
+    },
+    {
+      "id": "PCEPI",
+      "group": "7"
+    },
+    {
+      "id": "DDURRG3M086SBEA",
+      "group": "7"
+    },
+    {
+      "id": "DNDGRG3M086SBEA",
+      "group": "7"
+    },
+    {
+      "id": "DSERRG3M086SBEA",
+      "group": "7"
+    },
+    {
+      "id": "S&P 500",
+      "group": "8"
+    },
+    {
+      "id": "S&P: indust",
+      "group": "8"
+    },
+    {
+      "id": "S&P div yield",
+      "group": "8"
+    },
+    {
+      "id": "S&P PE ratio",
+      "group": "8"
+    },
+    {
+      "id": "VXOCLSx",
+      "group": "8"
+    }
+  ]
+}
